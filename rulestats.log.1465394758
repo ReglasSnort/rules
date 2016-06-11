@@ -1,0 +1,5 @@
+Rule Profile Statistics (all rules)
+==========================================================
+   Num      SID GID Rev     Checks   Matches    Alerts           Microsecs  Avg/Check  Avg/Match Avg/Nonmatch   Disabled
+   ===      === === ===     ======   =======    ======           =========  =========  ========= ============   ========
+     1 10000001   1   1         33         0         0                  33        1.0        0.0          1.0          0
